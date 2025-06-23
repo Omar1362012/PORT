@@ -1,0 +1,144 @@
+div.maincontent{
+    height: 600px;
+    background-image: url(office.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body{
+    margin: 0px;
+    padding: 0px
+}
+
+div.navbar{
+    display: flex;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.6);
+    color: wheat;
+    
+    
+}
+
+
+
+div.links{
+    display: flex;
+    margin-left: 500px;
+    padding-top:10px;
+
+    
+}
+
+div.links a{
+    margin: 0px 20px;
+}
+
+
+
+
+div.about{
+    color: white;
+    text-align: center;
+    margin-top:160px;
+    
+}
+
+div.about p{
+    font-size:25px;
+}
+
+div.about button{
+    padding:10px;
+    background-color:rgb(255,255,255,0);
+    color:white;
+    font-size:17px;
+}
+
+
+div.about hr{
+    width:20%;
+    color: black;
+    margin-top:30px;
+    border:2px solid white;
+    
+}
+
+
+div.servesitems{
+    display:flex;
+    text-align:center;
+    margin-top:30px;
+}
+
+div.serves{
+    text-align:center;
+    width:70%;
+    margin:auto;
+}
+
+div.serves hr{
+    width:20%;
+    color: black;
+    margin-top:30px;
+    border:2px solid black;
+}
+
+div.item{
+    margin:30px;
+}
+
+div.download{
+    background-color:gray;
+    padding:100px;
+    text-align:center;
+    
+}
+
+div.download button{
+    padding:15px;
+    border-radius:15px;
+}
+
+
+div.contact{
+    text-align:center;
+    
+}
+
+div.contact p{
+    margin:50px 0px;
+    
+}
+
+div.contact hr{
+    width:20%;
+    color: black;
+    margin-top:30px;
+    border:2px solid black;
+}
+
+
+.cimg{
+    display:flex;
+    text-align:center;
+    width:50%;
+    margin:auto;
+    
+    
+    
+}
+
+
+.cimg2 a{
+    display:block;
+    
+}
+
+
+.copyright{
+    text-align:center;
+    margin:50px 0px;
+}
